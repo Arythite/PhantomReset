@@ -1,0 +1,9 @@
+name: PhantomReset
+version: ${project.version}
+main: me.arythite.phantomreset.PhantomReset
+api-version: 1.16
+authors: [ Arythite ]
+description: resets the phantom timer by typing a command.
+commands:
+  pr:
+    aliases: phantomreset
